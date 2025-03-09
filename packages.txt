@@ -1,1 +1,3 @@
-# Add system packages if necessary (e.g., for database or external tools)
+streamlit
+pandas
+requests
